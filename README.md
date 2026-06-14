@@ -1,5 +1,5 @@
 -- ============================================================
--- LOGGED BY @DARLHUB
+-- 
 -- FEAR DUEL BAT AIMBOT (COMPLETE - All features)
 -- ============================================================
 
@@ -466,5 +466,5 @@ UserInputService.InputBegan:Connect(function(input, gameProcessed)
     end
 end)
 
-print("[Logged by @darkhub] Fear Duel Bat Aimbot Loaded")
+print("[DARK] Fear Duel Bat Aimbot Loaded")
 print("Press E to toggle | Right Control to hide GUI")
